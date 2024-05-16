@@ -4,6 +4,8 @@
 <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/frmscoe/channel-router-setup-processor/node.js.yml">
 </div>
 
+https://github.com/frmscoe/channel-router-setup-processor/blob/552d135d6c4a52075200c1108c0b43f882dec7f2/.env.template
+
 ## Overview
 This application fetches an active network map either from cache or from a database, filters it for relevant messages, deduplicates rules, and dispatches them for processing
 
