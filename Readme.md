@@ -6,6 +6,8 @@
 
 https://github.com/frmscoe/channel-router-setup-processor/blob/1a17e5e01ba8d21d5f24df11cb833fd05984eac9/.env.template#L1-L39
 
+https://github.com/frmscoe/channel-router-setup-processor/blob/docs/link/.env.template#L1-L39
+
 ## Overview
 This application fetches an active network map either from cache or from a database, filters it for relevant messages, deduplicates rules, and dispatches them for processing
 
